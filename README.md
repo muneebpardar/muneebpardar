@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-view.svg)
+
 # Hi there, I'm Muhammad Muneeb! 👋
 
 - 🎓 I'm pursuing BSCS at SZABIST  
@@ -50,3 +50,5 @@
 - Building projects with MERN stack
 - Improving competitive programming skills
 - Exploring Microsoft Azure cloud services
+
+![](./profile-3d-contrib/profile-night-view.svg)
