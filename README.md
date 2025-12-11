@@ -1,74 +1,82 @@
-# 👋 Hey, I'm Muhammad Muneeb!
+# Hi there, I'm Muhammad Muneeb! <img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36">
 
-President @ **ACM SZABIST** • 3rd-Year CS Student • Community Builder • Full-Stack & .NET Dev 🚀  
-I build tech communities, ship cool projects, and break things just enough to learn from them.  
-Also yes, I *can* solve a Rubik’s cube in under 2 minutes — certified skill issue 😌
+- 🎓 I'm a 3rd Year *BSCS* student at [SZABIST](https://www.szabist.edu.pk/)
+- 🧠 President of **ACM SZABIST**, building tech communities & cool dev cultures
+- 🚀 Full-stack & .NET dev who also dabbles in DevOps, cloud & mapping tech  
+- ⚡ Fun fact: I break stuff just to fix it better… and yes, I can solve a Rubik’s Cube under 2 minutes 😌
 
 ---
 
-## 🛠️ Tech Stack
+## Find me on:
+[![Email](https://skillicons.dev/icons?perline=12&i=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://skillicons.dev/icons?perline=12&i=linkedin)](YourLinkedInURL)
+
+---
+
+## Tech I have worked with:
 
 ### **Languages**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![C](https://skillicons.dev/icons?perline=12&i=c)
+![C++](https://skillicons.dev/icons?perline=12&i=cplusplus)
+![C#](https://skillicons.dev/icons?perline=12&i=cs)
+![Java](https://skillicons.dev/icons?perline=12&i=java)
+![JavaScript](https://skillicons.dev/icons?perline=12&i=javascript)
+![TypeScript](https://skillicons.dev/icons?perline=12&i=typescript)
+![Python](https://skillicons.dev/icons?perline=12&i=python)
+![HTML](https://skillicons.dev/icons?perline=12&i=html)
+![CSS](https://skillicons.dev/icons?perline=12&i=css)
+![SQL](https://skillicons.dev/icons?perline=12&i=mysql)
 
 ---
 
-### **Frameworks & Libraries**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+### **Frameworks / Libraries**
+![dotnet](https://skillicons.dev/icons?perline=12&i=dotnet)
+![React](https://skillicons.dev/icons?perline=12&i=react)
+![Next.js](https://skillicons.dev/icons?perline=12&i=nextjs)
+![Express](https://skillicons.dev/icons?perline=12&i=express)
+![Node.js](https://skillicons.dev/icons?perline=12&i=nodejs)
+![Angular](https://skillicons.dev/icons?perline=12&i=angular)
+![Chart.js](https://skillicons.dev/icons?perline=12&i=chartjs)
+![Leaflet](https://skillicons.dev/icons?perline=12&i=leaflet)
+![React Native](https://skillicons.dev/icons?perline=12&i=react)
+![Tailwind](https://skillicons.dev/icons?perline=12&i=tailwind)
 
 ---
 
 ### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://skillicons.dev/icons?perline=12&i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?perline=12&i=postgres)
+![MongoDB](https://skillicons.dev/icons?perline=12&i=mongodb)
 
 ---
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+### **Tools & Platforms**
+![Git](https://skillicons.dev/icons?perline=12&i=git)
+![Github](https://skillicons.dev/icons?perline=12&i=github)
+![Azure](https://skillicons.dev/icons?perline=12&i=azure)
+![Jenkins](https://skillicons.dev/icons?perline=12&i=jenkins)
+![Docker](https://skillicons.dev/icons?perline=12&i=docker)
+![Postman](https://skillicons.dev/icons?perline=12&i=postman)
+![VSCode](https://skillicons.dev/icons?perline=12&i=vscode)
+![Visual Studio](https://skillicons.dev/icons?perline=12&i=visualstudio)
+![Figma](https://skillicons.dev/icons?perline=12&i=figma)
+![Photoshop](https://skillicons.dev/icons?perline=12&i=photoshop)
+![Notion](https://skillicons.dev/icons?perline=12&i=notion)
+![Firebase](https://skillicons.dev/icons?perline=12&i=firebase)
+![Discord](https://skillicons.dev/icons?perline=12&i=discord)
+![npm](https://skillicons.dev/icons?perline=12&i=npm)
+![anaconda](https://skillicons.dev/icons?perline=12&i=anaconda)
+![vercel](https://skillicons.dev/icons?perline=12&i=vercel)
+![netlify](https://skillicons.dev/icons?perline=12&i=netlify)
 
 ---
 
-## 🔥 Currently Working On
-- Leveling up my **.NET development**
-- Running events & workshops as **ACM President**
-- Building full-stack apps & dashboards
-- Exploring DevOps tools like **Jenkins** + CI/CD pipelines
+<br/>
 
----
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInURL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YourTwitterURL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
-
----
+<p>
+    <img alt="Muneeb’s GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourgithubusername&theme=github_dark" /><br/><br/>
+    <img alt="Muneeb’s Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourgithubusername&theme=github_dark" />
+    <img alt="Muneeb’s GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourgithubusername&theme=github_dark" />
+</p>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
