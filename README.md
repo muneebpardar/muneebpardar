@@ -1,4 +1,4 @@
-![](profile-night-view.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 # Hi there, I'm Muhammad Muneeb! 👋
 
 - 🎓 I'm pursuing BSCS at SZABIST  
