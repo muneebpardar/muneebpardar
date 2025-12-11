@@ -74,9 +74,9 @@
 <br/>
 
 <p>
-    <img alt="Muneeb’s GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourgithubusername&theme=github_dark" /><br/><br/>
-    <img alt="Muneeb’s Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourgithubusername&theme=github_dark" />
-    <img alt="Muneeb’s GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourgithubusername&theme=github_dark" />
+    <img alt="Muneeb’s GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muneebpardar&theme=github_dark" /><br/><br/>
+    <img alt="Muneeb’s Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muneebpardar&theme=github_dark" />
+    <img alt="Muneeb’s GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneebpardar&theme=github_dark" />
 </p>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
