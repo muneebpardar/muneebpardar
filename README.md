@@ -36,8 +36,6 @@
 ![Express](https://skillicons.dev/icons?perline=12&i=express)
 ![Node.js](https://skillicons.dev/icons?perline=12&i=nodejs)
 ![Angular](https://skillicons.dev/icons?perline=12&i=angular)
-![Tech Stack](skillicons.dev)
-![Leaflet](https://skillicons.dev/icons?perline=12&i=leaflet)
 ![React Native](https://skillicons.dev/icons?perline=12&i=react)
 ![Tailwind](https://skillicons.dev/icons?perline=12&i=tailwind)
 
