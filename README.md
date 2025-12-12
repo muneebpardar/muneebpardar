@@ -17,7 +17,7 @@
 
 ### **Languages**
 ![C](https://skillicons.dev/icons?perline=12&i=c)
-![C++](https://skillicons.dev/icons?perline=12&i=cplusplus)
+![C++](https://skillicons.dev/icons?perline=12&i=cpp)
 ![C#](https://skillicons.dev/icons?perline=12&i=cs)
 ![Java](https://skillicons.dev/icons?perline=12&i=java)
 ![JavaScript](https://skillicons.dev/icons?perline=12&i=javascript)
