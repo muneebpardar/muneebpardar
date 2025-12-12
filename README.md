@@ -36,7 +36,7 @@
 ![Express](https://skillicons.dev/icons?perline=12&i=express)
 ![Node.js](https://skillicons.dev/icons?perline=12&i=nodejs)
 ![Angular](https://skillicons.dev/icons?perline=12&i=angular)
-![Chart.js](https://skillicons.dev/icons?perline=12&i=chartjs)
+![Chart.js](https://skillicons.dev/icons?perline=12&i=chartsjs)
 ![Leaflet](https://skillicons.dev/icons?perline=12&i=leaflet)
 ![React Native](https://skillicons.dev/icons?perline=12&i=react)
 ![Tailwind](https://skillicons.dev/icons?perline=12&i=tailwind)
