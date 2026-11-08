@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Muneeb! <img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36">
 
-- 🎓 I'm a 3rd Year *BSCS* student at [SZABIST](https://www.szabist.edu.pk/)
+- 🎓 I'm a 4th Year *BSCS* student at [SZABIST](https://www.szabist.edu.pk/)
 - 🧠 President of **ACM SZABIST**, building tech communities & cool dev cultures
 - 🚀 Full-stack & .NET dev who also dabbles in DevOps, cloud & mapping tech  
 - ⚡ Fun fact: I break stuff just to fix it better… and yes, I can solve a Rubik’s Cube under 2 minutes 
